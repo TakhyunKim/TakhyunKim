@@ -1,6 +1,7 @@
 ## Takhyun Kim
 
 #### 🌱 Software & Web Developer
+- Typescript
 - Javascript
 - React
 - Redux
