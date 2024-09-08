@@ -4,8 +4,11 @@
 - Typescript
 - Javascript
 - React
+- Next.js
+- Styled-components
 - Redux
-- Node.js
+- jotai
+- TanStack-Query
 
 #### 🧐 지향하는 목표
 - 어제보다 발전한 오늘을 추구합니다. 꾸준한 학습을 통해 발전하는 것을 목표로 합니다.
